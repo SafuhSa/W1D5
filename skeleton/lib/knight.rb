@@ -11,3 +11,5 @@ class KnightPathFinder
     
   end
 end 
+
+git filter-branch -f --env-filter "GIT_AUTHOR_NAME='Safuh95'; GIT_AUTHOR_EMAIL='safoh95@windowslive.com'; GIT_COMMITTER_NAME='Safuh Alsarayji'; GIT_COMMITTER_EMAIL='safoh95@windowslive.com';" HEAD
